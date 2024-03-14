@@ -1,0 +1,35 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: medium;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 22px;
+}
+.nav-link{
+    font-size: 16px;
+}
+.caro-width{
+    width: 639px;
+}
+.carousel-caption h5{
+    font-weight: 600;
+    font-size: 48px;
+}
+.carousel-caption p{
+    font-weight: 300;
+    font-size: 16px;
+}
+/* .carousel-caption{
+    width: 639px;
+} */
+
+.moment-info h3{
+    font-weight: 700;
+    font-size: 38px;
+}
+.moment-info p{
+    font-weight: 700;
+    font-size: 16px;
+}
