@@ -33,6 +33,9 @@ body{
     font-weight: 700;
     font-size: 16px;
 }
+.clients-rev p{
+    margin-bottom: 0;
+}
 @media (max-width: 767px) {
     .relative-column {
       position: static !important;
