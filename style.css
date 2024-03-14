@@ -33,3 +33,21 @@ body{
     font-weight: 700;
     font-size: 16px;
 }
+@media (max-width: 767px) {
+    .relative-column {
+      position: static !important;
+    }
+  
+    .absolute-content {
+      position: static !important;
+    }
+    .package{
+        padding-top: 0 !important;
+    }
+    .package-list{
+        row-gap: 40px !important;
+    }
+    .badge{
+        display: none !important;
+    }
+  }
