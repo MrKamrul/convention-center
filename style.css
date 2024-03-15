@@ -64,6 +64,17 @@ footer{
 .apples h5{
     font-size: 15px;
 }
+.toast{
+    padding: 5px !important;
+    height: 60px !important;
+    width: 270px !important;
+    border: 0 !important;
+    border-left: 15px solid #3F87F5 !important;
+}
+.toast-p p{
+    font-weight: 500;
+    font-size: 14px;
+}
 @media (max-width: 767px) {
     .relative-column {
       position: static !important;
