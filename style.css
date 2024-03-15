@@ -36,6 +36,34 @@ body{
 .clients-rev p{
     margin-bottom: 0;
 }
+.copyright{
+    font-weight: 300;
+    font-size: 14px;
+}
+.apples p{
+    margin-bottom: 0;
+}
+.foot h4{
+    font-weight: 400;
+    font-size: 18px;
+}
+footer{
+    background-color: #0B0D17;
+}
+.footer{
+    height: 40px;
+    width: 135px;
+    background-color: black;
+}
+.icon{
+    font-size: 25px;
+}
+.apples p{
+    font-size: 10px;
+}
+.apples h5{
+    font-size: 15px;
+}
 @media (max-width: 767px) {
     .relative-column {
       position: static !important;
